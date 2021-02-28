@@ -1,4 +1,4 @@
-<h1 align="center"> # devmore 
+<h1 align="center"> # devmore <br>
 <img src="https://github.com/mguilherm/devmore/blob/main/public/logo-full.svg"/>
 </h1>
 
@@ -7,18 +7,18 @@
 </h4>
 
 <h2> Sobre o Projeto </h2>
-<hr>
 
-<h3> <strong> A aplicação desenvolvida chama-se DevMore.</strong> 💪 </h3><br>
+
+<h3> <strong> A aplicação desenvolvida chama-se DevMore.</strong> 💪 </h3>
 <p> A ideia inicial dessa aplicação baseia-se no método de Pomodoro. Ela concilia técnicas de estudo com exercícios, pensada aos usuários que utilizam muito o computador. Ao fim de cada ciclo, é gerada uma notificação ao usuário, para que o mesmo realize um desafio e acumule XP, upando seu level de acordo com seu sucesso no método. </p>
 
 <h2> Tecnologias Utilizadas </h2>
-<hr>
+
 
 <p> Este projeto foi desenvolvido utilizando as seguintes tecnologias: </p><br>
 
 <ul>
-  <li> <img href="https://nextjs.org/" src="https://simpleicons.org/icons/next-dot-js.svg"> Next.js </a></li>
+  <li> <img href="https://nextjs.org/" src="https://simpleicons.org/icons/next-dot-js.svg" width: 50px weight: 50px> Next.js </a></li>
   <li> <img href="https://reactjs.org/" src="https://simpleicons.org/icons/react.svg"> React </a></li>
   <li> <img href="https://www.typescriptlang.org/" src="https://simpleicons.org/icons/typescript.svg">TypeScript </a></li>
     
