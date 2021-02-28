@@ -38,7 +38,7 @@
     </a>
   </li>
   <li>
-    <a href="://www.typescriptlang.org/">
+    <a href="//www.typescriptlang.org/">
       TypeScript
     </a>
   </li>
@@ -77,10 +77,11 @@
 
   <h2>Creditos</h2>
 
-  <div align="center">
+  <div align="right">
     <p>Projeto Base: #NLW04 - Rocketseat</p>
     <p>Desenvolvido por Marcos Guilherme Silva 👋</p>
     <p>Vamos conversar! 😁</p>
+  <a href="mailto:marcosguiherme.silva@outlook.com"> E-mail </a>
     <a href="https://www.linkedin.com/in/marcos-guilherme-barbosa-da-silva-8313121a4/">LinkedIn</a>
   </div>
 </ul>
