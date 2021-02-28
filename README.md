@@ -5,7 +5,7 @@
   />
   
 </h1>
-<p align="center"><em>baseado no Move.it da #NLW04 da Rocketseat</</em></p>
+<p align="center"><em>baseado no Move.it da #NLW04 da Rocketseat</em></p>
 
 <h4 align="center">🚧 Em construção... 🚧</h4>
 
