@@ -45,7 +45,7 @@
 </div>
 
   <h2>Preview</h2>
-  <hr />
+
 
   <p>Clique no link abaixo para uma pré-visualização da aplicação!</p>
   <br />
@@ -58,7 +58,7 @@
   /></a>
 
   <h2>Vamos começar?!</h2>
-  <hr />
+
 
   ```bash 
   # Clona o projeto acessando o comando 
