@@ -28,26 +28,18 @@
 <div style="justify-content: center">
 <ul>
   <li>
-    <a href="https://nextjs.org/">
-      <img  style="width: 50px; height: 50px"
-        src="https://simpleicons.org/icons/next-dot-js.svg"      
-      />
+    <a href="https://nextjs.org/">      
       Next.js
     </a>
   </li>
   <li>
     <a href="https://reactjs.org/">
-      <img style="width: 50px; height: 50px"
-        src="https://simpleicons.org/icons/react.svg"        
-      />
       React
     </a>
   </li>
   <li>
     <a href="://www.typescriptlang.org/">
-      <img style="width: 50px; height: 50px"
-        src="https://simpleicons.org/icons/typescript.svg"      
-      />TypeScript
+      TypeScript
     </a>
   </li>
 </div>
@@ -87,9 +79,7 @@
 
   <div align="center">
     <p>Projeto Base: #NLW04 - Rocketseat</p>
-    <br />
     <p>Desenvolvido por Marcos Guilherme Silva 👋</p>
-    <br />
     <p>Vamos conversar! 😁</p>
     <a href="https://www.linkedin.com/in/marcos-guilherme-barbosa-da-silva-8313121a4/">LinkedIn</a>
   </div>
