@@ -9,7 +9,7 @@
 
 <h4 align="center">🚧 Em construção... 🚧</h4>
 
-<h2>Sobre o Projeto</h2>
+<h2> 💡 Sobre o Projeto</h2>
 
 <h3><strong> A aplicação desenvolvida chama-se DevMore.</strong> 💪</h3>
 <p>
@@ -20,7 +20,7 @@
   seu sucesso no método.
 </p>
 
-<h2>Tecnologias Utilizadas</h2>
+<h2> 🕹 Tecnologias Utilizadas</h2>
 
 <p>Este projeto foi desenvolvido utilizando as seguintes tecnologias:</p>
 <br />
@@ -44,7 +44,7 @@
   </li>
 </div>
 
-  <h2>Preview</h2>
+  <h2> 📽 Preview</h2>
 
 
   <p>Clique no link abaixo para uma pré-visualização da aplicação!</p>
@@ -57,7 +57,7 @@
       style="max-width: 100%"
   /></a>
 
-  <h2>Vamos começar?!</h2>
+  <h2> 🖥 Vamos começar?!</h2>
 
 
   ```bash 
@@ -75,13 +75,13 @@
   
   ```
 
-  <h2>Creditos</h2>
+  <h2> 📃 Creditos</h2>
 
   <div align="right">
     <p>Projeto Base: #NLW04 - Rocketseat</p>
     <p>Desenvolvido por Marcos Guilherme Silva 👋</p>
-    <p>Vamos conversar! 😁</p>
-  <a href="mailto:marcosguiherme.silva@outlook.com"> E-mail </a>
-    <a href="https://www.linkedin.com/in/marcos-guilherme-barbosa-da-silva-8313121a4/">LinkedIn</a>
+    <p>Vamos conversar! 👇😁</p>
+  <a href="mailto:marcosguiherme.silva@outlook.com"> E-mail 📩 </a> |
+  <a href="https://www.linkedin.com/in/marcos-guilherme-barbosa-da-silva-8313121a4/">LinkedIn 👨🏿‍💻</a>
   </div>
 </ul>
