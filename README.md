@@ -1,2 +1,3 @@
 # devmore
-App baseado na versão do "Move.it" produzido na #NLW04 da Rocketseat
+
+<a href="https://github.com/mguilherm/devmore/blob/main/public/logo-full.svg">
