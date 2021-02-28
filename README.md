@@ -27,28 +27,28 @@
 <div style="justify-content: center">
 <ul>
   <li>
-    <a style="" href="https://nextjs.org/">
-      <img
+    <a href="https://nextjs.org/">
+      <img  style="width: 50px; height: 50px"
         src="https://simpleicons.org/icons/next-dot-js.svg"
-        style="width: 50px; height: 50px"
+       
       />
       Next.js
     </a>
   </li>
   <li>
     <a href="https://reactjs.org/">
-      <img
+      <img style="width: 50px; height: 50px"
         src="https://simpleicons.org/icons/react.svg"
-        style="width: 50px; height: 50px"
+        
       />
       React
     </a>
   </li>
   <li>
     <a href="://www.typescriptlang.org/">
-      <img
+      <img style="width: 50px; height: 50px"
         src="https://simpleicons.org/icons/typescript.svg"
-        style="width: 50px; height: 50px"
+        
       />TypeScript
     </a>
   </li>
