@@ -3,8 +3,9 @@
   <img
     src="https://github.com/mguilherm/devmore/blob/main/public/logo-full.svg"
   />
-  <p>baseado no Move.it da #NLW04 da Rocketseat</p>
+  
 </h1>
+<p align="center"><em>baseado no Move.it da #NLW04 da Rocketseat</<em></p>
 
 <h4 align="center">🚧 Em construção... 🚧</h4>
 
@@ -29,8 +30,7 @@
   <li>
     <a href="https://nextjs.org/">
       <img  style="width: 50px; height: 50px"
-        src="https://simpleicons.org/icons/next-dot-js.svg"
-       
+        src="https://simpleicons.org/icons/next-dot-js.svg"      
       />
       Next.js
     </a>
@@ -38,8 +38,7 @@
   <li>
     <a href="https://reactjs.org/">
       <img style="width: 50px; height: 50px"
-        src="https://simpleicons.org/icons/react.svg"
-        
+        src="https://simpleicons.org/icons/react.svg"        
       />
       React
     </a>
@@ -47,8 +46,7 @@
   <li>
     <a href="://www.typescriptlang.org/">
       <img style="width: 50px; height: 50px"
-        src="https://simpleicons.org/icons/typescript.svg"
-        
+        src="https://simpleicons.org/icons/typescript.svg"      
       />TypeScript
     </a>
   </li>
@@ -70,13 +68,23 @@
   <h2>Vamos começar?!</h2>
   <hr />
 
-  ```bash # Clona o projeto acessando o comando $ git clone
-  https://github.com/mguilherm/devmore.git # Acesse a pasta do projeto no
-  terminal/cmd $ cd /*nome da pasta */ #instale as dependências $yarn #rode a
-  aplicação usando $yarn dev ```
+  ```bash 
+  # Clona o projeto acessando o comando 
+  $ git clone https://github.com/mguilherm/devmore.git 
+  
+  # Acesse a pasta do projeto no terminal/cmd 
+  $ cd /*nome da pasta */ 
+  
+  #instale as dependências 
+  $yarn 
+  
+  #rode a aplicação usando 
+  $yarn dev 
+  
+  ```
 
   <h2>Creditos</h2>
-  <hr />
+
   <div align="center">
     <p>Projeto Base: #NLW04 - Rocketseat</p>
     <br />
